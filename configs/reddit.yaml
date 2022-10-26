@@ -1,5 +1,5 @@
 client_id: ${oc.env:reddit_client_id}
 client_secret: ${oc.env:reddit_client_secret}
 username: ${oc.env:reddit_username}
-password: ${oc.env:reddit_password
+password: ${oc.env:reddit_password}
 url: 'https://www.reddit.com'
